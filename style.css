@@ -9,3 +9,9 @@ padding: 10px;
 font-size: 32px;
 color: goldenrod;
 }
+section{background: yellow;
+padding-bottom: 80px;
+padding-top: 50 px;
+display: flex;
+justify-content: center;
+}
